@@ -4,4 +4,4 @@
 2. To run test: `npm test`
 
 
-[Working Demo](http://www.semihgk.com/process-street-app)
+[Working Demo](http://www.semihgk.com/process-street)
