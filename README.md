@@ -1,8 +1,8 @@
 # process-street-app
 
 ### requirements
-node.js
-karma (npm install -g karma-cli)
+1. node.js
+2. karma (npm install -g karma-cli)
 
 1. To start application : `npm start` listening on 3000
 2. To run test: `npm test`
